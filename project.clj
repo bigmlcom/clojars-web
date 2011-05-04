@@ -7,6 +7,7 @@
                  [org.apache.maven/maven-model "2.2.1"]
                  [org.apache.maven/maven-project "2.2.1"]
                  [org.apache.maven.wagon/wagon-file "1.0-beta-6"]
+                 [org.apache.maven.wagon/wagon-provider-api "1.0-beta-6"]
                  [compojure "0.5.2"]
                  [ring/ring-jetty-adapter "0.3.1"]
                  [hiccup "0.3.0"]
